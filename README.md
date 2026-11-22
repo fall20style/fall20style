@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 습작 프로젝트
+### 습작 프로젝트(2026)
 
 | NO  | git repo | DESC |
 | :-: | :------- | :--- |
