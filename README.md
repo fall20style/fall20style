@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### 습작 프로젝트
+
 | NO  | git repo | DESC |
 | :-: | :------- | :--- |
 |  1 | [my-muse-exaon](https://github.com/fall20style/my-muse-exaon) | exaon을 이용한 ai agent |
