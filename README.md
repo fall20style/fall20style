@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| NO  | git repo | DESC |
+| :-: | :------: | :--- |
+|  1 | [my-muse-exaon](https://github.com/fall20style/my-muse-exaon) | exaon을 이용한 ai agent |
+|  2 | [mp3-study-ai-app](https://github.com/fall20style/mp3-study-ai-app) | mp3를 학습 app |
+|  3 | [simple-code-agent](https://github.com/fall20style/simple-code-agent) | simple-code-agent 파이썬 기반 |
+|  4 | [reachym_test](https://github.com/fall20style/reachym_test) | reachym_test |
